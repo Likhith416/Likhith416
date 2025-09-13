@@ -8,7 +8,7 @@
 
 - **Languages:** Python, Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React.js, Express.js, Node.js
-- **Domains:** Artificial Intelligence, Web Development, Machine Learning
+- **Domains:** Artificial Intelligence, Web Development.
 
 ---
 
