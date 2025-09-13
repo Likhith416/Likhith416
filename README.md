@@ -40,7 +40,7 @@ Check it out here: [Cv-analysis-using-ML](https://github.com/Likhith416/Cv-analy
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/likhith-kumar-1b799b369/)
+- [LinkedIn](https://www.linkedin.com/in/likhith-kumar04/)
 
 ---
 
